@@ -2,5 +2,4 @@
 
 ### Clever Components
 
-https://clever.github.io/components/
-
+[clever.github.io/components](https://clever.github.io/components/)
