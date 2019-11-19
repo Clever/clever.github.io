@@ -1,4 +1,6 @@
-## Projects
+---
+title: Clever
+---
 
 ### Clever Components
 
