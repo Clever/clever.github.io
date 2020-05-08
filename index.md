@@ -8,11 +8,12 @@ title: Clever
 
 ### Clever Components
 
-[clever.github.io/components](https://clever.github.io/components/)
+A design system for the ed-tech ecosystem [clever.github.io/components](https://clever.github.io/components/)
 
 ### SAML 2
 
-[github.com/Clever/saml2](https://github.com/Clever/saml2)
+
+Node module to abstract away the complexities of the SAML protocol behind an easy to use interface [github.com/Clever/saml2](https://github.com/Clever/saml2)
 
 ### Terms and Policies
 
