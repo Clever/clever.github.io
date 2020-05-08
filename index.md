@@ -14,6 +14,10 @@ title: Clever
 
 [github.com/Clever/saml2](https://github.com/Clever/saml2)
 
+### Terms and Policies
+
+Clever's Terms and Policies are open source making it easy for people to view changes and historical information [github.com/Clever/policies](https://github.com/Clever/policies)
+
 
 ## Engineering Blog
 
